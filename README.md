@@ -22,6 +22,7 @@ This project focuses on predicting whether two sentences convey the same meaning
 
 ## Dataset
 **Quora Question Pairs** — contains 400K+ sentence pairs aimed at detecting duplicate/similar questions.
+
 ***Dataset***: https://www.kaggle.com/datasets/quora/question-pairs-dataset
 
 ## Key Steps
